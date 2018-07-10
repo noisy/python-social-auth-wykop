@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='social-auth-wykop',
-    version='0.0.1',
+    version='0.0.2',
     packages=find_packages(),
     author='Krzysztof @noisy Szumny',
     author_email='noisy.pl@gmail.com',

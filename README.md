@@ -26,7 +26,7 @@ or clone from Github
 1. Add `WykopAPIv1` backend to AUTHENTICATION_BACKENDS:
 
         AUTHENTICATION_BACKENDS = (
-            'wykop.backends.WykopAPIv1',
+            'social_auth_wykop.backends.WykopAPIv1',
             ...
             'django.contrib.auth.backends.ModelBackend',
         )
@@ -43,6 +43,9 @@ Ready to use examples of projects in Django, Flask and Tornado frameworks are pr
 https://github.com/noisy/python-social-auth-wykop-examples
 
 ## Changelog
+
+### 0.0.2
+* changes in structure of directories
 
 ### 0.0.1
 * Initial release
