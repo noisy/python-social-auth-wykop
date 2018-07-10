@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/social-auth-wykop.svg)](https://badge.fury.io/py/social-auth-wykop)
+
 python-social-auth-wykop
 ===========================
 
