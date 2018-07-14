@@ -44,6 +44,9 @@ https://github.com/noisy/python-social-auth-wykop-examples
 
 ## Changelog
 
+### 0.0.3
+* Fake OAuth2 API. Use it to support [django-rest-framework-social-oauth2](https://github.com/RealmTeam/django-rest-framework-social-oauth2)
+
 ### 0.0.2
 * changes in structure of directories
 
